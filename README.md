@@ -1,8 +1,8 @@
 ### CLASSIFICATION (SUPERVISED MACHINE LEARNING)
 Supervised machine learning involves the use of algorithms to make predictions from labeled datasets. \
 Classification is one of the examples of supervised machine learning which was employed in this project. \
-The outcome of this project was to build and evaluate a model that can predict whether there will be rainfall the next day or not based on several features as \
-temperature, wind direction, wind speed, etc which was a good example of a binary classification. \
+The outcome of this project was to build and evaluate a model that can predict whether there will be rainfall the next day or not based on several features such as temperature, wind direction, wind speed, etc \ 
+which was a good example of a binary classification. \
 A logistic regression was considered to address the outcome which had an accuracy of 83%.
 
 
