@@ -1,14 +1,15 @@
 ### CLASSIFICATION (SUPERVISED MACHINE LEARNING)
-Supervised machine learning involves the use of algorithms to make predictions from labelled dataset. \
+Supervised machine learning involves the use of algorithms to make predictions from labeled datasets. \
 Classification is one of the examples of supervised machine learning which was employed in this project. \
-The outcome of this project was to build and evaluate a model which can predict whether there will be a rainfall the next day or not based on several features as \
-temperature, wind direction, wind speed etc which was a good example of a binary classfication. \
+The outcome of this project was to build and evaluate a model that can predict whether there will be rainfall the next day or not based on several features as \
+temperature, wind direction, wind speed, etc which was a good example of a binary classification. \
 A logistic regression was considered to address the outcome which had an accuracy of 83%.
 
 
-The original source of the data is Australian Government's Bureau of Meteorology and the latest data can be gathered from http://www.bom.gov.au/climate/dwo/.
-The dataset to be used has extra columns like 'RainToday' and our target is 'RainTomorrow', which was gathered from the Rattle at https://bitbucket.org/kayontoga/rattle/src/master/data/weatherAUS.RData
-This dataset contains observations of weather metrics for each day from 2008 to 2017. The **weatherAUS.csv** dataset includes the following fields:
+The original source of the data was from the Australian Government's Bureau of Meteorology and the latest data can be gathered from http://www.bom.gov.au/climate/dwo/. \
+The dataset to be used as extra columns like 'RainToday' and our target is 'RainTomorrow', which was gathered from the Rattle at https://bitbucket.org/kayontoga/rattle/src/master/data/weatherAUS.RData \
+This dataset contains observations of weather metrics for each day from 2008 to 2017.  \
+The **weatherAUS.csv** dataset includes the following fields:
 
 | Field         | Description                                           | Unit            | Type   |
 | ------------- | ----------------------------------------------------- | --------------- | ------ |
